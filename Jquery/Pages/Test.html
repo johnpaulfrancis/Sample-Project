@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/css/bootstrap.min.css">-->
+    <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.10.1/bootstrap-table.min.css">-->
+
+    <!--<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js">
+    <link rel="stylesheet" href="https: //cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">-->
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.css" />
+    <link rel="stylesheet" type="text/css" href="DataTables/datatables.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css" />
+</head>
+<body>
+    
+
+            <label>Name</label>
+            <input type="text" tabindex="1" id="txt_name" />
+
+            <label>Salary</label>
+            <input type="text" tabindex="2" id="txt_Salary" />
+
+
+            <label for="ddl_designation">Designation <span class="required">*</span></label>
+            <select id="ddl_designation" tabindex="3" name="Designation"></select>
+
+
+            <label for="ddl_status">Status <span class="required">*</span></label>
+            <select id="ddl_status" tabindex="4" name="Status">
+                <option value="-1">--Select--</option>
+                <option value="active">Active</option>
+                <option value="notactive">Not Active</option>
+            </select>
+
+     
+    <br/>
+    <!--Product Category end-->
+    <br />
+    <br />
+<button type="button" id="btn_go"> Go</button>
+   
+    <button type="button" id="btn_showVal">Show Value</button>&nbsp;&nbsp;&nbsp;
+    <button type="button" id="btn_getData">Get Data</button>&nbsp;&nbsp;&nbsp;
+    <input type="button" id="btn_Save" value="Save" />&nbsp;&nbsp;&nbsp;
+    <br />
+    <br />
+    <div id="Content">
+    </div>
+    <br />
+    <br />
+    <table id="table" data-height="460">
+        <!--<thead>
+            <tr class="clickableRow" data-id="OUTPUT_ID_HERE">
+                <th data-field="id">Item ID</th>
+                <th data-field="name">Item Name</th>
+                <th data-field="price">Item Price</th>                
+            </tr>
+        </thead>-->
+      
+    </table>
+
+    <!--Jquery 3.4.1-->
+    <script src="../scripts/jquery 3.4.1.min.js"></script>
+
+
+    <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.10.1/bootstrap-table.min.js"></script>-->
+
+
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.js"></script>
+    <script type="text/javascript" src="DataTables/datatables.min.js"></script>
+
+    <!--Custom Js-->
+    <script src="../scripts/Test.js"></script>
+
+</body>
+</html>

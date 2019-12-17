@@ -1,0 +1,238 @@
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\ApplicationInsights.config
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\roslyn\csc.exe
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\roslyn\System.Collections.Immutable.dll
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\roslyn\vbc.exe
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\roslyn\VBCSCompiler.exe
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\roslyn\VBCSCompiler.exe.config
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\Jquery.dll.config
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\Jquery.dll
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\Jquery.pdb
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\Microsoft.AI.Web.dll
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\Microsoft.AI.WindowsServer.dll
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\Microsoft.ApplicationInsights.dll
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\Microsoft.AI.Web.xml
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\Microsoft.AI.WindowsServer.xml
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\Microsoft.ApplicationInsights.xml
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\obj\Debug\Jquery.csprojResolveAssemblyReference.cache
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\obj\Debug\Jquery.dll
+c:\users\essensol-4\documents\visual studio 2015\Projects\Jquery\Jquery\obj\Debug\Jquery.pdb
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\ApplicationInsights.config
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\roslyn\csc.exe
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\roslyn\vbc.exe
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\roslyn\VBCSCompiler.exe
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\Jquery.dll.config
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\Jquery.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\Jquery.pdb
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\Microsoft.AI.Web.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\Microsoft.AI.Web.xml
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\obj\Debug\Jquery.csprojResolveAssemblyReference.cache
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\obj\Debug\Jquery.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\obj\Debug\Jquery.pdb
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\Newtonsoft.Json.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\Newtonsoft.Json.xml
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\jqueryBLL.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\jqueryDAL.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\jqueryBLL.pdb
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\jqueryDAL.pdb
+D:\Aaron\Jquery\Jquery\bin\ApplicationInsights.config
+D:\Aaron\Jquery\Jquery\bin\roslyn\csc.exe
+D:\Aaron\Jquery\Jquery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Aaron\Jquery\Jquery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Aaron\Jquery\Jquery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Aaron\Jquery\Jquery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Aaron\Jquery\Jquery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Aaron\Jquery\Jquery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Aaron\Jquery\Jquery\bin\roslyn\System.Collections.Immutable.dll
+D:\Aaron\Jquery\Jquery\bin\roslyn\System.Reflection.Metadata.dll
+D:\Aaron\Jquery\Jquery\bin\roslyn\vbc.exe
+D:\Aaron\Jquery\Jquery\bin\roslyn\VBCSCompiler.exe
+D:\Aaron\Jquery\Jquery\bin\roslyn\VBCSCompiler.exe.config
+D:\Aaron\Jquery\Jquery\bin\Jquery.dll.config
+D:\Aaron\Jquery\Jquery\bin\Jquery.dll
+D:\Aaron\Jquery\Jquery\bin\Jquery.pdb
+D:\Aaron\Jquery\Jquery\bin\jqueryBLL.dll
+D:\Aaron\Jquery\Jquery\bin\jqueryBO.dll
+D:\Aaron\Jquery\Jquery\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Aaron\Jquery\Jquery\bin\Microsoft.AI.DependencyCollector.dll
+D:\Aaron\Jquery\Jquery\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Aaron\Jquery\Jquery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Aaron\Jquery\Jquery\bin\Microsoft.AI.Web.dll
+D:\Aaron\Jquery\Jquery\bin\Microsoft.AI.WindowsServer.dll
+D:\Aaron\Jquery\Jquery\bin\Microsoft.ApplicationInsights.dll
+D:\Aaron\Jquery\Jquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Aaron\Jquery\Jquery\bin\Newtonsoft.Json.dll
+D:\Aaron\Jquery\Jquery\bin\jqueryDAL.dll
+D:\Aaron\Jquery\Jquery\bin\jqueryBLL.pdb
+D:\Aaron\Jquery\Jquery\bin\jqueryBO.pdb
+D:\Aaron\Jquery\Jquery\bin\Microsoft.AI.DependencyCollector.xml
+D:\Aaron\Jquery\Jquery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Aaron\Jquery\Jquery\bin\Microsoft.AI.Web.xml
+D:\Aaron\Jquery\Jquery\bin\Microsoft.AI.WindowsServer.xml
+D:\Aaron\Jquery\Jquery\bin\Microsoft.ApplicationInsights.xml
+D:\Aaron\Jquery\Jquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Aaron\Jquery\Jquery\bin\Newtonsoft.Json.xml
+D:\Aaron\Jquery\Jquery\bin\jqueryDAL.pdb
+D:\Aaron\Jquery\Jquery\obj\Debug\Jquery.csprojResolveAssemblyReference.cache
+D:\Aaron\Jquery\Jquery\obj\Debug\Jquery.dll
+D:\Aaron\Jquery\Jquery\obj\Debug\Jquery.pdb
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\jqueryBO.dll
+C:\Users\Essensol-4\Downloads\Jquery\Jquery\bin\jqueryBO.pdb
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\ApplicationInsights.config
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\roslyn\csc.exe
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\roslyn\vbc.exe
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\roslyn\VBCSCompiler.exe
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\Jquery.dll.config
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\Jquery.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\Jquery.pdb
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\jqueryBLL.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\jqueryBO.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\Microsoft.AI.Web.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\Newtonsoft.Json.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\jqueryDAL.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\jqueryBLL.pdb
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\jqueryBO.pdb
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\Microsoft.AI.Web.xml
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\Newtonsoft.Json.xml
+C:\Users\Node8\Desktop\Jquery\Jquery\bin\jqueryDAL.pdb
+C:\Users\Node8\Desktop\Jquery\Jquery\obj\Debug\Jquery.dll
+C:\Users\Node8\Desktop\Jquery\Jquery\obj\Debug\Jquery.pdb
+C:\Users\Node8\Desktop\Jquery\Jquery\obj\Debug\Jquery.csprojResolveAssemblyReference.cache
+D:\Live Project\Jquery\Jquery\bin\ApplicationInsights.config
+D:\Live Project\Jquery\Jquery\bin\roslyn\csc.exe
+D:\Live Project\Jquery\Jquery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Live Project\Jquery\Jquery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Live Project\Jquery\Jquery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Live Project\Jquery\Jquery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Live Project\Jquery\Jquery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Live Project\Jquery\Jquery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Live Project\Jquery\Jquery\bin\roslyn\System.Collections.Immutable.dll
+D:\Live Project\Jquery\Jquery\bin\roslyn\System.Reflection.Metadata.dll
+D:\Live Project\Jquery\Jquery\bin\roslyn\vbc.exe
+D:\Live Project\Jquery\Jquery\bin\roslyn\VBCSCompiler.exe
+D:\Live Project\Jquery\Jquery\bin\roslyn\VBCSCompiler.exe.config
+D:\Live Project\Jquery\Jquery\bin\Jquery.dll.config
+D:\Live Project\Jquery\Jquery\bin\Jquery.dll
+D:\Live Project\Jquery\Jquery\bin\Jquery.pdb
+D:\Live Project\Jquery\Jquery\bin\jqueryBLL.dll
+D:\Live Project\Jquery\Jquery\bin\jqueryBO.dll
+D:\Live Project\Jquery\Jquery\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Live Project\Jquery\Jquery\bin\Microsoft.AI.DependencyCollector.dll
+D:\Live Project\Jquery\Jquery\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Live Project\Jquery\Jquery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Live Project\Jquery\Jquery\bin\Microsoft.AI.Web.dll
+D:\Live Project\Jquery\Jquery\bin\Microsoft.AI.WindowsServer.dll
+D:\Live Project\Jquery\Jquery\bin\Microsoft.ApplicationInsights.dll
+D:\Live Project\Jquery\Jquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Live Project\Jquery\Jquery\bin\Newtonsoft.Json.dll
+D:\Live Project\Jquery\Jquery\bin\jqueryDAL.dll
+D:\Live Project\Jquery\Jquery\bin\jqueryBLL.pdb
+D:\Live Project\Jquery\Jquery\bin\jqueryBO.pdb
+D:\Live Project\Jquery\Jquery\bin\Microsoft.AI.DependencyCollector.xml
+D:\Live Project\Jquery\Jquery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Live Project\Jquery\Jquery\bin\Microsoft.AI.Web.xml
+D:\Live Project\Jquery\Jquery\bin\Microsoft.AI.WindowsServer.xml
+D:\Live Project\Jquery\Jquery\bin\Microsoft.ApplicationInsights.xml
+D:\Live Project\Jquery\Jquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Live Project\Jquery\Jquery\bin\Newtonsoft.Json.xml
+D:\Live Project\Jquery\Jquery\bin\jqueryDAL.pdb
+D:\Live Project\Jquery\Jquery\obj\Debug\Jquery.csprojResolveAssemblyReference.cache
+D:\Live Project\Jquery\Jquery\obj\Debug\Jquery.dll
+D:\Live Project\Jquery\Jquery\obj\Debug\Jquery.pdb
+E:\Jquery\Jquery\bin\ApplicationInsights.config
+E:\Jquery\Jquery\bin\roslyn\csc.exe
+E:\Jquery\Jquery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Jquery\Jquery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Jquery\Jquery\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Jquery\Jquery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Jquery\Jquery\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Jquery\Jquery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Jquery\Jquery\bin\roslyn\System.Collections.Immutable.dll
+E:\Jquery\Jquery\bin\roslyn\System.Reflection.Metadata.dll
+E:\Jquery\Jquery\bin\roslyn\vbc.exe
+E:\Jquery\Jquery\bin\roslyn\VBCSCompiler.exe
+E:\Jquery\Jquery\bin\roslyn\VBCSCompiler.exe.config
+E:\Jquery\Jquery\bin\Jquery.dll.config
+E:\Jquery\Jquery\bin\Jquery.dll
+E:\Jquery\Jquery\bin\Jquery.pdb
+E:\Jquery\Jquery\bin\jqueryBLL.dll
+E:\Jquery\Jquery\bin\jqueryBO.dll
+E:\Jquery\Jquery\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Jquery\Jquery\bin\Microsoft.AI.DependencyCollector.dll
+E:\Jquery\Jquery\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Jquery\Jquery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Jquery\Jquery\bin\Microsoft.AI.Web.dll
+E:\Jquery\Jquery\bin\Microsoft.AI.WindowsServer.dll
+E:\Jquery\Jquery\bin\Microsoft.ApplicationInsights.dll
+E:\Jquery\Jquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Jquery\Jquery\bin\Newtonsoft.Json.dll
+E:\Jquery\Jquery\bin\jqueryDAL.dll
+E:\Jquery\Jquery\bin\jqueryBLL.pdb
+E:\Jquery\Jquery\bin\jqueryBO.pdb
+E:\Jquery\Jquery\bin\Microsoft.AI.DependencyCollector.xml
+E:\Jquery\Jquery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Jquery\Jquery\bin\Microsoft.AI.Web.xml
+E:\Jquery\Jquery\bin\Microsoft.AI.WindowsServer.xml
+E:\Jquery\Jquery\bin\Microsoft.ApplicationInsights.xml
+E:\Jquery\Jquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Jquery\Jquery\bin\Newtonsoft.Json.xml
+E:\Jquery\Jquery\bin\jqueryDAL.pdb
+E:\Jquery\Jquery\obj\Debug\Jquery.csprojResolveAssemblyReference.cache
+E:\Jquery\Jquery\obj\Debug\Jquery.dll
+E:\Jquery\Jquery\obj\Debug\Jquery.pdb

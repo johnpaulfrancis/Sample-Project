@@ -1,0 +1,45 @@
+C:\Users\Essensol-4\Downloads\Jquery\jqueryBLL\bin\Debug\jqueryBLL.dll
+C:\Users\Essensol-4\Downloads\Jquery\jqueryBLL\bin\Debug\jqueryBLL.pdb
+C:\Users\Essensol-4\Downloads\Jquery\jqueryBLL\bin\Debug\jqueryBO.dll
+C:\Users\Essensol-4\Downloads\Jquery\jqueryBLL\bin\Debug\jqueryDAL.dll
+C:\Users\Essensol-4\Downloads\Jquery\jqueryBLL\bin\Debug\jqueryBO.pdb
+C:\Users\Essensol-4\Downloads\Jquery\jqueryBLL\bin\Debug\jqueryDAL.pdb
+C:\Users\Essensol-4\Downloads\Jquery\jqueryBLL\obj\Debug\jqueryBLL.csprojResolveAssemblyReference.cache
+C:\Users\Essensol-4\Downloads\Jquery\jqueryBLL\obj\Debug\jqueryBLL.dll
+C:\Users\Essensol-4\Downloads\Jquery\jqueryBLL\obj\Debug\jqueryBLL.pdb
+D:\Aaron\Jquery\jqueryBLL\bin\Debug\jqueryBLL.dll
+D:\Aaron\Jquery\jqueryBLL\bin\Debug\jqueryBLL.pdb
+D:\Aaron\Jquery\jqueryBLL\bin\Debug\jqueryBO.dll
+D:\Aaron\Jquery\jqueryBLL\bin\Debug\jqueryDAL.dll
+D:\Aaron\Jquery\jqueryBLL\bin\Debug\jqueryBO.pdb
+D:\Aaron\Jquery\jqueryBLL\bin\Debug\jqueryDAL.pdb
+D:\Aaron\Jquery\jqueryBLL\obj\Debug\jqueryBLL.csprojResolveAssemblyReference.cache
+D:\Aaron\Jquery\jqueryBLL\obj\Debug\jqueryBLL.dll
+D:\Aaron\Jquery\jqueryBLL\obj\Debug\jqueryBLL.pdb
+C:\Users\Node8\Desktop\Jquery\jqueryBLL\bin\Debug\jqueryBLL.dll
+C:\Users\Node8\Desktop\Jquery\jqueryBLL\bin\Debug\jqueryBLL.pdb
+C:\Users\Node8\Desktop\Jquery\jqueryBLL\bin\Debug\jqueryBO.dll
+C:\Users\Node8\Desktop\Jquery\jqueryBLL\bin\Debug\jqueryDAL.dll
+C:\Users\Node8\Desktop\Jquery\jqueryBLL\bin\Debug\jqueryBO.pdb
+C:\Users\Node8\Desktop\Jquery\jqueryBLL\bin\Debug\jqueryDAL.pdb
+C:\Users\Node8\Desktop\Jquery\jqueryBLL\obj\Debug\jqueryBLL.csprojResolveAssemblyReference.cache
+C:\Users\Node8\Desktop\Jquery\jqueryBLL\obj\Debug\jqueryBLL.dll
+C:\Users\Node8\Desktop\Jquery\jqueryBLL\obj\Debug\jqueryBLL.pdb
+D:\Live Project\Jquery\jqueryBLL\bin\Debug\jqueryBLL.dll
+D:\Live Project\Jquery\jqueryBLL\bin\Debug\jqueryBLL.pdb
+D:\Live Project\Jquery\jqueryBLL\bin\Debug\jqueryBO.dll
+D:\Live Project\Jquery\jqueryBLL\bin\Debug\jqueryDAL.dll
+D:\Live Project\Jquery\jqueryBLL\bin\Debug\jqueryBO.pdb
+D:\Live Project\Jquery\jqueryBLL\bin\Debug\jqueryDAL.pdb
+D:\Live Project\Jquery\jqueryBLL\obj\Debug\jqueryBLL.csprojResolveAssemblyReference.cache
+D:\Live Project\Jquery\jqueryBLL\obj\Debug\jqueryBLL.dll
+D:\Live Project\Jquery\jqueryBLL\obj\Debug\jqueryBLL.pdb
+E:\Jquery\jqueryBLL\bin\Debug\jqueryBLL.dll
+E:\Jquery\jqueryBLL\bin\Debug\jqueryBLL.pdb
+E:\Jquery\jqueryBLL\bin\Debug\jqueryBO.dll
+E:\Jquery\jqueryBLL\bin\Debug\jqueryDAL.dll
+E:\Jquery\jqueryBLL\bin\Debug\jqueryBO.pdb
+E:\Jquery\jqueryBLL\bin\Debug\jqueryDAL.pdb
+E:\Jquery\jqueryBLL\obj\Debug\jqueryBLL.csprojResolveAssemblyReference.cache
+E:\Jquery\jqueryBLL\obj\Debug\jqueryBLL.dll
+E:\Jquery\jqueryBLL\obj\Debug\jqueryBLL.pdb

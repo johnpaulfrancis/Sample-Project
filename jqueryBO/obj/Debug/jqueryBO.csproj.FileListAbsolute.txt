@@ -1,0 +1,23 @@
+C:\Users\Essensol-4\Downloads\Jquery\jqueryBO\bin\Debug\jqueryBO.dll
+C:\Users\Essensol-4\Downloads\Jquery\jqueryBO\bin\Debug\jqueryBO.pdb
+C:\Users\Essensol-4\Downloads\Jquery\jqueryBO\obj\Debug\jqueryBO.csprojResolveAssemblyReference.cache
+C:\Users\Essensol-4\Downloads\Jquery\jqueryBO\obj\Debug\jqueryBO.dll
+C:\Users\Essensol-4\Downloads\Jquery\jqueryBO\obj\Debug\jqueryBO.pdb
+D:\Aaron\Jquery\jqueryBO\bin\Debug\jqueryBO.dll
+D:\Aaron\Jquery\jqueryBO\bin\Debug\jqueryBO.pdb
+D:\Aaron\Jquery\jqueryBO\obj\Debug\jqueryBO.dll
+D:\Aaron\Jquery\jqueryBO\obj\Debug\jqueryBO.pdb
+C:\Users\Node8\Desktop\Jquery\jqueryBO\bin\Debug\jqueryBO.dll
+C:\Users\Node8\Desktop\Jquery\jqueryBO\bin\Debug\jqueryBO.pdb
+C:\Users\Node8\Desktop\Jquery\jqueryBO\obj\Debug\jqueryBO.dll
+C:\Users\Node8\Desktop\Jquery\jqueryBO\obj\Debug\jqueryBO.pdb
+D:\Live Project\Jquery\jqueryBO\bin\Debug\jqueryBO.dll
+D:\Live Project\Jquery\jqueryBO\bin\Debug\jqueryBO.pdb
+D:\Live Project\Jquery\jqueryBO\obj\Debug\jqueryBO.csprojResolveAssemblyReference.cache
+D:\Live Project\Jquery\jqueryBO\obj\Debug\jqueryBO.dll
+D:\Live Project\Jquery\jqueryBO\obj\Debug\jqueryBO.pdb
+E:\Jquery\jqueryBO\bin\Debug\jqueryBO.dll
+E:\Jquery\jqueryBO\bin\Debug\jqueryBO.pdb
+E:\Jquery\jqueryBO\obj\Debug\jqueryBO.csprojResolveAssemblyReference.cache
+E:\Jquery\jqueryBO\obj\Debug\jqueryBO.dll
+E:\Jquery\jqueryBO\obj\Debug\jqueryBO.pdb

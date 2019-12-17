@@ -1,0 +1,35 @@
+C:\Users\Essensol-4\Downloads\Jquery\jqueryDAL\bin\Debug\jqueryDAL.dll
+C:\Users\Essensol-4\Downloads\Jquery\jqueryDAL\bin\Debug\jqueryDAL.pdb
+C:\Users\Essensol-4\Downloads\Jquery\jqueryDAL\bin\Debug\jqueryBO.dll
+C:\Users\Essensol-4\Downloads\Jquery\jqueryDAL\bin\Debug\jqueryBO.pdb
+C:\Users\Essensol-4\Downloads\Jquery\jqueryDAL\obj\Debug\jqueryDAL.csprojResolveAssemblyReference.cache
+C:\Users\Essensol-4\Downloads\Jquery\jqueryDAL\obj\Debug\jqueryDAL.dll
+C:\Users\Essensol-4\Downloads\Jquery\jqueryDAL\obj\Debug\jqueryDAL.pdb
+D:\Aaron\Jquery\jqueryDAL\bin\Debug\jqueryDAL.dll
+D:\Aaron\Jquery\jqueryDAL\bin\Debug\jqueryDAL.pdb
+D:\Aaron\Jquery\jqueryDAL\bin\Debug\jqueryBO.dll
+D:\Aaron\Jquery\jqueryDAL\bin\Debug\jqueryBO.pdb
+D:\Aaron\Jquery\jqueryDAL\obj\Debug\jqueryDAL.csprojResolveAssemblyReference.cache
+D:\Aaron\Jquery\jqueryDAL\obj\Debug\jqueryDAL.dll
+D:\Aaron\Jquery\jqueryDAL\obj\Debug\jqueryDAL.pdb
+C:\Users\Node8\Desktop\Jquery\jqueryDAL\bin\Debug\jqueryDAL.dll
+C:\Users\Node8\Desktop\Jquery\jqueryDAL\bin\Debug\jqueryDAL.pdb
+C:\Users\Node8\Desktop\Jquery\jqueryDAL\bin\Debug\jqueryBO.dll
+C:\Users\Node8\Desktop\Jquery\jqueryDAL\bin\Debug\jqueryBO.pdb
+C:\Users\Node8\Desktop\Jquery\jqueryDAL\obj\Debug\jqueryDAL.csprojResolveAssemblyReference.cache
+C:\Users\Node8\Desktop\Jquery\jqueryDAL\obj\Debug\jqueryDAL.dll
+C:\Users\Node8\Desktop\Jquery\jqueryDAL\obj\Debug\jqueryDAL.pdb
+D:\Live Project\Jquery\jqueryDAL\bin\Debug\jqueryDAL.dll
+D:\Live Project\Jquery\jqueryDAL\bin\Debug\jqueryDAL.pdb
+D:\Live Project\Jquery\jqueryDAL\bin\Debug\jqueryBO.dll
+D:\Live Project\Jquery\jqueryDAL\bin\Debug\jqueryBO.pdb
+D:\Live Project\Jquery\jqueryDAL\obj\Debug\jqueryDAL.csprojResolveAssemblyReference.cache
+D:\Live Project\Jquery\jqueryDAL\obj\Debug\jqueryDAL.dll
+D:\Live Project\Jquery\jqueryDAL\obj\Debug\jqueryDAL.pdb
+E:\Jquery\jqueryDAL\bin\Debug\jqueryDAL.dll
+E:\Jquery\jqueryDAL\bin\Debug\jqueryDAL.pdb
+E:\Jquery\jqueryDAL\bin\Debug\jqueryBO.dll
+E:\Jquery\jqueryDAL\bin\Debug\jqueryBO.pdb
+E:\Jquery\jqueryDAL\obj\Debug\jqueryDAL.csprojResolveAssemblyReference.cache
+E:\Jquery\jqueryDAL\obj\Debug\jqueryDAL.dll
+E:\Jquery\jqueryDAL\obj\Debug\jqueryDAL.pdb
